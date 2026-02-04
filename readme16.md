@@ -1,0 +1,1 @@
+The curious cat discovered a hidden garden behind the old bookshelf on a misty Tuesday afternoon.
