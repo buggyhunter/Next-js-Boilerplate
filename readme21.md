@@ -1,3 +1,1 @@
-# README21
-
-The curious cat discovered a hidden library filled with books that wrote themselves while the moonlight danced through the ancient windows.
+The old lighthouse keeper counted exactly forty-seven seagulls every morning, though no one else ever saw more than twelve.
