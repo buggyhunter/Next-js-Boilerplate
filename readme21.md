@@ -1,3 +1,1 @@
-# README21
-
-The curious cat discovered a hidden library filled with books that wrote themselves while the moonlight danced through the ancient windows.
+The old lighthouse keeper painted every seashell he found a different shade of blue.
