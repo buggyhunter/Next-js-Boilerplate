@@ -1,1 +1,1 @@
-The old lighthouse keeper hummed a forgotten melody as the sea swallowed the last sliver of sun.
+Yaşlı deniz feneri bekçisi, güneşin son ışığını deniz yutarken unutulmuş bir melodi mırıldanıyordu.
