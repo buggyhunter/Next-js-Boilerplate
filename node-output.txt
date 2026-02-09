@@ -1,0 +1,5 @@
+Node.js Version: v22.22.0
+Platform: linux
+Architecture: x64
+Current Directory: /home/user/Next-js-Boilerplate
+Hello from Node.js!
